@@ -1,0 +1,11 @@
+* {box-sizing: border-box;}
+
+body {
+    background-color: #f9edb2;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
